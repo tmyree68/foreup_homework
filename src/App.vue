@@ -14,7 +14,7 @@
 
 <script>
 import AutoComplete from '@/components/AutoComplete.vue'
-import SaveSearchCriteria from "@/SaveSearchCriteria.vue";
+import SaveSearchCriteria from "@/components/SaveSearchCriteria.vue";
 
 export default {
   components: {
